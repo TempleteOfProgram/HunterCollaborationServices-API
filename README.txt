@@ -1,3 +1,4 @@
+
 #Retrieving parameters from a URL
     import urlparse
     url = 'http://www.example.com/?def=ghi'
